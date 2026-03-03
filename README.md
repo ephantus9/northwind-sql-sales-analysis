@@ -39,7 +39,3 @@ The dataset simulates a retail distribution business and allows for real-world s
 - Sales activity shows clear monthly seasonality patterns.
 - Employee order distribution highlights performance variation across staff.
 
-## How to Run
-1. Import the Northwind database into MySQL.
-2. Open the `northwind_eda.sql` script.
-3. Execute queries individually to reproduce results.
